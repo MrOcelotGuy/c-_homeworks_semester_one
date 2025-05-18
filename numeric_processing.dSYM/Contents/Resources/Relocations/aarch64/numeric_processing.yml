@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/diegomeneses/Downloads/Homework/numeric_processing'
+binary-path:     '/Users/diegomeneses/Projects/Homework/numeric_processing'
 relocations:     []
 ...
